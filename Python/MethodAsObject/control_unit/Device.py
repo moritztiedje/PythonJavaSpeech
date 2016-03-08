@@ -1,4 +1,4 @@
-from Examples.MethodAsObject.control_unit.server import Server
+from MethodAsObject.control_unit.server.Server import Server
 
 
 class Device(object):

@@ -1,4 +1,4 @@
-from Examples.MethodAsObject.control_unit.server.Components import ConnectionSupervisor
+from MethodAsObject.control_unit.server.Components.ConnectionSupervisor import ConnectionSupervisor
 
 
 class Server(object):
